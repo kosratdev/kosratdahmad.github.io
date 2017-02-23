@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: Kosrat D. Ahmad
+email: kosrat.d.ahmad@gmail.com
+url: https://kosratdahmad.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Android Developerr"
+meta_author: Kosrat D. Ahmad
 
 # Google webmaster tools
 google_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Kosrat D. Ahmad
   location: Location
   social: Around the Web
   credits: Credits
