@@ -1,10 +1,10 @@
 # Site settings
-title: Kosrat D. Ahmad
+title: Kosrat Dlshad
 email: kosrat.d.ahmad@gmail.com
 url: https://kosratdahmad.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 skills: "Android Developerr"
-meta_author: Kosrat D. Ahmad
+meta_author: Kosrat Dlshad
 
 # Google webmaster tools
 google_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Kosrat D. Ahmad
+  copyright: Kosrat Dlshad
   location: Location
   social: Around the Web
   credits: Credits
