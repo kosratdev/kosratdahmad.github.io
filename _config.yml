@@ -57,7 +57,7 @@ address:
   - line: Iraq
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This website is based on the free Bootstrap <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank">Freelancer theme</a>.'
 
 # Build settings
 markdown: kramdown
