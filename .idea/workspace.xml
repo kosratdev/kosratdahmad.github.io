@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="" />
+    <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,12 +57,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596899704020</updated>
-      <workItem from="1596899705631" duration="9777000" />
+      <workItem from="1596899705631" duration="10307000" />
+      <workItem from="1596918335303" duration="359000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="103" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596917509755">
@@ -74,22 +90,22 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.836@0.23.1440.836" timestamp="1596912909881" />
-    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1596917389584">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1596918921355">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1596917389584" />
-    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1596917389581">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1596918921355" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1596918921354">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1596917389581" />
-    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1596917389580">
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1596918921354" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1596918921351">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1596917389580" />
-    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1596917389582">
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1596918921351" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1596918921354">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1596917389582" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1596918921354" />
     <state x="221" y="80" key="SettingsEditor" timestamp="1596908778343">
       <screen x="0" y="23" width="1440" height="836" />
     </state>

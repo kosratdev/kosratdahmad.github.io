@@ -230,7 +230,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://confirm.udacity.com/G6NM7D45"
+          url: "https://drive.google.com/file/d/0B9kfm711y1kGZ3hpS2htX2labDQ/view?usp=sharing"
         }
       ]
     }
