@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact_disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/contact_static.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/js_disqus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-07-01-my-prayers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-01-popular-movies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-01-build-it-bigger.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-08-01-sunshine-wear.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-02-01-zeyton-news.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/gradle-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/movie-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/news-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/prayer-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/watch-project.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact_me.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact_me_static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/freelancer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fp0PZrnmRy1UuVXALwJr1iOTO9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="" />
+      <created>1596899704020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596899704020</updated>
+      <workItem from="1596899705631" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="103" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596900767897">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="184" y="103" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.836@0.23.1440.836" timestamp="1596900767897" />
+    <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596900688421">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.836@0.23.1440.836" timestamp="1596900688421" />
+  </component>
+</project>
