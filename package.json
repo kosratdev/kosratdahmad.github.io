@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kosrat.dev/index.html",
-  "name": "kosratdahmad.github.io",
+  "homepage": "https://kosrat.dev",
+  "name": "kosrat.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
