@@ -9,13 +9,12 @@ const greeting = {
   username: "Kosrat D. Ahmed",
   title: "Hi, I'm Kosrat",
   subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with Android / iOS / Vuejs and some other cool libraries and frameworks."),
-  resumeLink: "https://docs.google.com/document/d/1mirJi796aUroJgfI4O9XLLa3YgfsuVM0CZJODxnKtug/edit?usp=sharing"
+  resumeLink: "https://docs.google.com/document/d/1mirJi796aUroJgfI4O9XLLa3YgfsuVM0CZJODxnKtug/edit?usp=sharing",
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
-
   github: "https://github.com/kosratdahmad",
   linkedin: "https://linkedin.com/in/kosratahmad/",
   gmail: "kosrat.d.ahmad@gmail.com",
@@ -29,11 +28,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY MOBILE AND FRONT-END DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
-    emoji("⚡ Develop highly interactive Android / iOS / Front end / User Interfaces for your web and mobile applications"),
+    emoji("⚡ Develop highly interactive Android / iOS / Front End / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Integration of third party services such as Firebase / AWS / Digital Ocean")
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -77,20 +76,20 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "Firebase",
       fontAwesomeClassname: "fas fa-fire"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
     },
   ]
 };
@@ -241,21 +240,6 @@ const achievementSection = {
 
 const blogSection = {
   viewBlogSection: false,
-  title: "Blogs",
-  subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-
-  blogs: [
-    {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
-  ]
 };
 
 // Talks Sections
