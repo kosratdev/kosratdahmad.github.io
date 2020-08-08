@@ -113,8 +113,8 @@ const workExperiences = {
       date: "Apr 2020 – Present",
       desc: "",
       descBullets: [
-        "Mentor for Android Kotlin Refresh ND",
-        "Mentor for Introduction to Cybersecurity ND",
+        "Mentor for Android Kotlin Refresh Nanodegree",
+        "Mentor for Introduction to Cybersecurity Nanodegree",
       ]
     },
     {
