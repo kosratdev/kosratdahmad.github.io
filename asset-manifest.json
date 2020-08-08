@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae0e6979.chunk.css",
+    "main.js": "/static/js/main.b7e7b3c8.chunk.js",
+    "main.js.map": "/static/js/main.b7e7b3c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.82bda4b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.82bda4b3.js.map",
+    "static/js/2.e34c36c6.chunk.js": "/static/js/2.e34c36c6.chunk.js",
+    "static/js/2.e34c36c6.chunk.js.map": "/static/js/2.e34c36c6.chunk.js.map",
+    "static/css/3.cffc9e54.chunk.css": "/static/css/3.cffc9e54.chunk.css",
+    "static/js/3.cd39af8d.chunk.js": "/static/js/3.cd39af8d.chunk.js",
+    "static/js/3.cd39af8d.chunk.js.map": "/static/js/3.cd39af8d.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.847dc943.chunk.js": "/static/js/4.847dc943.chunk.js",
+    "static/js/4.847dc943.chunk.js.map": "/static/js/4.847dc943.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eabc019e42052227d1497b4afa07e51e.js": "/precache-manifest.eabc019e42052227d1497b4afa07e51e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.cffc9e54.chunk.css.map": "/static/css/3.cffc9e54.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.ae0e6979.chunk.css.map": "/static/css/main.ae0e6979.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/keentechLogo.svg": "/static/media/keentechLogo.31b8b88e.svg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg",
+    "static/media/udacity.png": "/static/media/udacity.27cab8fa.png",
+    "static/media/universty.png": "/static/media/universty.2bdd75f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82bda4b3.js",
+    "static/js/2.e34c36c6.chunk.js",
+    "static/css/main.ae0e6979.chunk.css",
+    "static/js/main.b7e7b3c8.chunk.js"
+  ]
+}
