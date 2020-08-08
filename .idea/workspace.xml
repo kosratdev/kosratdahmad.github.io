@@ -2,61 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact_disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact_static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/js_disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/modals.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/portfolio_grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-07-01-my-prayers.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-01-popular-movies.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-07-01-build-it-bigger.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-01-sunshine-wear.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-01-zeyton-news.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/gradle-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/movie-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/news-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/prayer-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/watch-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/profile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/cbpAnimatedHeader.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/classie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/contact_me_static.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/freelancer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.11.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/contact_me.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/achievement/Achievement.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/achievement/Achievement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/workExperience/WorkExperience.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/workExperience/WorkExperience.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +32,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
@@ -98,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596899704020</updated>
-      <workItem from="1596899705631" duration="710000" />
+      <workItem from="1596899705631" duration="9403000" />
     </task>
     <servers />
   </component>
@@ -114,5 +79,37 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.836@0.23.1440.836" timestamp="1596900688421" />
+    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596912909881">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.836@0.23.1440.836" timestamp="1596912909881" />
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1596917225758">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1596917225758" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1596917225757">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1596917225757" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1596917225756">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1596917225756" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1596917225757">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1596917225757" />
+    <state x="221" y="80" key="SettingsEditor" timestamp="1596908778343">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="221" y="80" key="SettingsEditor/0.23.1440.836@0.23.1440.836" timestamp="1596908778343" />
+    <state x="418" y="196" width="604" height="490" key="find.popup" timestamp="1596917045645">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="418" y="196" width="604" height="490" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1596917045645" />
+    <state x="369" y="164" width="700" height="530" key="recent.locations.popup" timestamp="1596915316295">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="369" y="164" width="700" height="530" key="recent.locations.popup/0.23.1440.836@0.23.1440.836" timestamp="1596915316295" />
   </component>
 </project>
