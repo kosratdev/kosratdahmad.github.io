@@ -16,9 +16,9 @@
 /*  flex: 1;*/
 /*}*/
 
-.starup-project-image > img {
-  max-width: 100%;
-  height: auto;
+.startup-project-image > img {
+  max-width: 200px;
+  height: 200px;
 }
 
 .project-card-head {
@@ -42,7 +42,7 @@
 }
 
 @media (max-width: 768px) {
-  .starup-project-image {
+  .startup-project-image {
     display: none;
   }
   .project-subtitle{

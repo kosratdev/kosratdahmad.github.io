@@ -19,13 +19,12 @@ export default function StartupProject() {
           <div className="startup-projects-card">
             {bigProjects.projects.map(project => {
               return (
-                <div className="pointer" onClick={() => openProjectInNewWindow(project.link)}>
-                  <img alt="Saad Working" src={project.image}></img>
+                <div className="pointer startup-project-image" onClick={() => openProjectInNewWindow(project.link)}>
+                  <img alt="app icon" src={project.image}></img>
                 </div>
               );
             })}
           </div>
-          <div className="starup-project-image"></div>
         </div>
       </div>
     </div>

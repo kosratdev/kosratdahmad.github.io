@@ -3,7 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/airbnbLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/codeInLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/facebookLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/googleAssistant.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/googleAssistantLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/jsFramework.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/keentechLogo2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/nextuLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/ngcLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/programmer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pwa.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/pwaLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/quoraLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/saayaHealthLogo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/talksCardBackAlt.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProjects.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProjects.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
@@ -63,7 +77,7 @@
       <updated>1596899704020</updated>
       <workItem from="1596899705631" duration="10307000" />
       <workItem from="1596918335303" duration="3637000" />
-      <workItem from="1596975429135" duration="2255000" />
+      <workItem from="1596975429135" duration="6298000" />
     </task>
     <servers />
   </component>
@@ -91,26 +105,26 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="444" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.836@0.23.1440.836" timestamp="1596900688421" />
-    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596912909881">
+    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596996029780">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.836@0.23.1440.836" timestamp="1596912909881" />
-    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1596976906267">
+    <state x="458" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.836@0.23.1440.836" timestamp="1596996029780" />
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom" timestamp="1596978299911">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1596976906267" />
-    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1596976906266">
+    <state width="1419" height="209" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1596978299911" />
+    <state width="1419" height="209" key="GridCell.Tab.0.center" timestamp="1596978299909">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1596976906266" />
-    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1596976906266">
+    <state width="1419" height="209" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1596978299909" />
+    <state width="1419" height="209" key="GridCell.Tab.0.left" timestamp="1596978299908">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1596976906266" />
-    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1596976906267">
+    <state width="1419" height="209" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1596978299908" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right" timestamp="1596978299910">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
-    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1596976906267" />
+    <state width="1419" height="209" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1596978299910" />
     <state x="221" y="80" key="SettingsEditor" timestamp="1596908778343">
       <screen x="0" y="23" width="1440" height="836" />
     </state>

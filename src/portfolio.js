@@ -173,12 +173,20 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/"
+      image: require("./assets/images/myprayers-android.svg"),
+      link: "https://play.google.com/store/apps/details?id=com.kosratdahmad.myprayers"
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/"
+      image: require("./assets/images/myprayers-ios.svg"),
+      link: "https://apps.apple.com/us/app/my-prayers/id1390015257"
+    },
+    {
+      image: require("./assets/images/bruska.svg"),
+      link: "https://newpos.bruskaaccount.com"
+    },
+    {
+      image: require("./assets/images/easy-finder-ios.svg"),
+      link: "https://newpos.bruskaaccount.com"
     }
   ]
 };
