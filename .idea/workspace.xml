@@ -3,23 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6aaa8c60-d7d3-4ba2-9ab8-769fcd4d9911" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/airbnbLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/codeInLogo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/facebookLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/googleAssistant.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/googleAssistantLogo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/jsFramework.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/keentechLogo2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/nextuLogo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/ngcLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/programmer.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pwa.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/pwaLogo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/quoraLogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/saayaHealthLogo.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/talksCardBackAlt.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProjects.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/StartupProjects/StartupProjects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/easy-finder-ios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/easy-finder-ios.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/myprayers-android.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/myprayers-android.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/myprayers-ios.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/myprayers-ios.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +28,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +40,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets/images" />
     </key>
@@ -77,7 +66,7 @@
       <updated>1596899704020</updated>
       <workItem from="1596899705631" duration="10307000" />
       <workItem from="1596918335303" duration="3637000" />
-      <workItem from="1596975429135" duration="6298000" />
+      <workItem from="1596975429135" duration="8831000" />
     </task>
     <servers />
   </component>

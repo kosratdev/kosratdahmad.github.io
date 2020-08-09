@@ -186,7 +186,23 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/easy-finder-ios.svg"),
-      link: "https://newpos.bruskaaccount.com"
+      link: "https://apps.apple.com/us/app/easy-finder-local-services/id1425396594"
+    },
+    {
+      image: require("./assets/images/visit-erbil-ios.svg"),
+      link: "https://apps.apple.com/th/app/visit-erbil-official-guide/id1292816935"
+    },
+    {
+      image: require("./assets/images/rebari-12-android.svg"),
+      link: "https://play.google.com/store/apps/details?id=co.keentech.exam"
+    },
+    {
+      image: require("./assets/images/zmc-ios.svg"),
+      link: "https://apps.apple.com/us/app/zmc-express-cargo/id995688587"
+    },
+    {
+      image: require("./assets/images/zmc-android.svg"),
+      link: "https://play.google.com/store/apps/details?id=com.jiasaz.zmccustomers"
     }
   ]
 };
