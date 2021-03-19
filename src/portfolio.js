@@ -8,7 +8,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Kosrat D. Ahmed",
   title: "Hi, I'm Kosrat",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with Android / iOS / Vuejs and some other cool libraries and frameworks."),
+  subTitle: emoji("A passionate Team Lead & Software Developer 🚀 having an experience of building Web and Mobile applications with Android / iOS / Vuejs and some other cool libraries and frameworks."),
   resumeLink: "https://docs.google.com/document/d/1mirJi796aUroJgfI4O9XLLa3YgfsuVM0CZJODxnKtug/edit?usp=sharing",
 };
 
@@ -107,10 +107,22 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Team Lead",
+      company: "NassWallet",
+      companylogo: require("./assets/images/nasswalletLogo.jpeg"),
+      date: "Sep 2020 – Current",
+      desc: "",
+      descBullets: [
+        "Leading the development team ",
+        "Create the base structure for VueJs Apps",
+        "Create the base structure for Android/iOS Apps",
+      ]
+    },
+    {
       role: "Mentor",
       company: "Udacity",
       companylogo: require("./assets/images/udacityLogo.png"),
-      date: "Apr 2020 – Present",
+      date: "Apr 2020 – Mar 2021",
       desc: "",
       descBullets: [
         "Mentor for Android Kotlin Refresh Nanodegree",
@@ -221,8 +233,8 @@ const achievementSection = {
       image: require("./assets/images/udacity.png"),
       footerLink: [
         {
-          name: "Certification (In Progress)",
-          url: "#"
+          name: "Certification",
+          url: "https://confirm.udacity.com/LAWHNMLT"
         },
       ]
     },
