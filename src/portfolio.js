@@ -8,7 +8,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Kosrat D. Ahmed",
   title: "Hi, I'm Kosrat",
-  subTitle: emoji("A passionate Team Lead & Software Developer 🚀 having an experience of building Web and Mobile applications with Android / iOS / Vuejs and some other cool libraries and frameworks."),
+  subTitle: emoji("A passionate Team Lead & Software Developer 🚀 having an experience of building Enterprise system, Web, and Mobile applications with the modern frameworks and some other cool libraries."),
   resumeLink: "https://docs.google.com/document/d/1mirJi796aUroJgfI4O9XLLa3YgfsuVM0CZJODxnKtug/edit?usp=sharing",
 };
 
@@ -108,14 +108,15 @@ const workExperiences = {
   experience: [
     {
       role: "Software Team Lead",
-      company: "NassWallet",
-      companylogo: require("./assets/images/nasswalletLogo.jpeg"),
+      company: "RIGT",
+      companylogo: require("./assets/images/rigt-logo.png"),
       date: "Sep 2020 – Current",
       desc: "",
       descBullets: [
-        "Leading the development team ",
-        "Create the base structure for VueJs Apps",
-        "Create the base structure for Android/iOS Apps",
+        "Managing and leading developers by Agile (scrum) methodology.",
+        "Analyzing business requirements",
+        "Writing project technical specifications and business logic",
+        "Building system architecture",
       ]
     },
     {
@@ -185,6 +186,14 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
+      image: require("./assets/images/arbela.png"),
+      link: "#"
+    },
+    {
+      image: require("./assets/images/cardhouzz.png"),
+      link: "#"
+    },
+    {
       image: require("./assets/images/myprayers-android.svg"),
       link: "https://play.google.com/store/apps/details?id=com.kosratdahmad.myprayers"
     },
@@ -227,6 +236,17 @@ const achievementSection = {
   subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achivementsCards: [
+    {
+      title: "Agile Project Management",
+      subtitle: "Learn the project management processes, roles, mechanics, and philosophies behind Scrum, the simplest and most pure approach to managing work at the team level.",
+      image: require("./assets/images/maryland.webp"),
+      footerLink: [
+        {
+          name: "In Progress",
+          url: "#"
+        },
+      ]
+    },
     {
       title: "Android Kotlin Refresh Nanodegree",
       subtitle: "Completed Certification from Udacity for Android Kotlin Developer Nanodegree",
